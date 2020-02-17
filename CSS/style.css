@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    background: linear-gradient(#2c2c2c, transparent 70%),
+    linear-gradient(0deg, rgb(46, 46, 46), transparent),
+    #7c7c7c url('../IMG/background.jpeg') no-repeat center;
+    background-size: contain;
+    overflow: auto;
+    background-position: center top;
+}
